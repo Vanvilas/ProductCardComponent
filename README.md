@@ -1,1 +1,1 @@
-![Product Card](screenshots product-card-component.jpeg)
+![Imagem de Exemplo](screenshots product-card-component.jpeg)
