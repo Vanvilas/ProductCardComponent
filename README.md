@@ -1,1 +1,1 @@
-![veja o resultado](https://github.com/Vanvilas/ProductCardComponent/blob/main/screenshots%20product-card-component.jpeg)
+![Imagem de exemplo](https://github.com/Vanvilas/ProductCardComponent/blob/main/screenshots%20product-card-component.jpeg)
